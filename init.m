@@ -5,11 +5,8 @@
 // Language: Objective-C
 // Completion Scope: Function or Method
 
-self = [super init];
-if (!self) {
-  return nil;
+if (self = [super init]) {
+	<#initializations#>  
 }
-
-<#initializations#>
 
 return self;
