@@ -1,11 +1,11 @@
 // NSCopying Protocol Methods
 // Placeholders for NSCopying protocol methods
 //
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: AEF546EF-F75A-4F13-8852-09CE1B9D7855
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// Language: Objective-C
-// Platform: All
+// IDECodeSnippetVersion: 2
 
 #pragma mark - NSCoying Methods
 
