@@ -1,8 +1,11 @@
 // Block property
 // Creates a property with a block
-// Platform: All
+//
+// IDECodeSnippetIdentifier: 2F5BF013-924F-41A3-96AD-338B7BC224D7
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scope: Top Level, Class Interface Variables
+// Platform: All
 
 
 @property (nonatomic, strong) <#returnType#> (^<#blockName#>)(<#parametersType#>);
