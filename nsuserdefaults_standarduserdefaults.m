@@ -1,5 +1,5 @@
 // NSUserDefaults standardUserDefaults
-// 
+// User Defaults completion
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 422ABC0E-4CA9-4825-A03D-1D9722902BE3
